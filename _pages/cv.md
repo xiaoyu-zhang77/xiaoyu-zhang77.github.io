@@ -13,6 +13,8 @@ redirect_from:
 
 # Education and Experience
 
+<!--
+
 ## PhD in Computational Design
 
 Apr. 2026 - Now
@@ -53,3 +55,4 @@ Sep. 2018 - Jun. 2022
 - 2021-2022  School Stars in Volunteering Works
 - 2019-2020  Yongping Scholarship for Student
 - 2018-2019  First Prize Scholarships in 2018 academic year
+-->

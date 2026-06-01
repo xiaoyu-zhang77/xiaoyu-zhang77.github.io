@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-## I am Xiaoyu Zhang (曾一欣), a PhD candidate (since 2026) at [ETH computational design lab](https://cdl.ethz.ch/), under the supervision of Prof. Bernd Bickel. I did my master's study at the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn), Zhejiang University, under the supervision of Prof. [Hongzhi Wu](https://hongzhiwu.com/). Prior to this, I accomplished my Bachelor's degree in Computer Science and Technology, graduating from the Chu Kochen College at Zhejiang University in 2022. From June to November 2024, I served as an visiting student researcher at [KAIST](https://www.kaist.ac.kr/en/), working with Prof. [Min H. Kim](https://vclab.kaist.ac.kr/minhkim/).
+<!--I am Xiaoyu Zhang (曾一欣), a PhD candidate (since 2026) at [ETH computational design lab](https://cdl.ethz.ch/), under the supervision of Prof. Bernd Bickel. I did my master's study at the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn), Zhejiang University, under the supervision of Prof. [Hongzhi Wu](https://hongzhiwu.com/). Prior to this, I accomplished my Bachelor's degree in Computer Science and Technology, graduating from the Chu Kochen College at Zhejiang University in 2022. From June to November 2024, I served as an visiting student researcher at [KAIST](https://www.kaist.ac.kr/en/), working with Prof. [Min H. Kim](https://vclab.kaist.ac.kr/minhkim/). -->
 
 你好，欢迎来到我的个人网站！
 
@@ -17,16 +16,16 @@ redirect_from:
 欢迎大家浏览我的网站，并与我交流学习经验！
 
 
-**Research Interest:** Computer Graphics, and Computational Imaging.
+**Research Interest:** 产品设计,体验设计和服务设计.
 
-**Contact:** [22221238@zju.edu.cn](mailto:22221238@zju.edu.cn) / [xiaoyu-zhang77@gmail.com](mailto:xiaoyu-zhang77@gmail.com)
-
-
-
-I paint in my spare time. I have posted some of my paintings on my website's [art gallery](https://xiaoyu-zhang77.github.io/artgallery/).
+**Contact:** [2890089712@qq.com](mailto:22221238@zju.edu.cn) / [xiaoyu-zhang77@gmail.com](mailto:xiaoyu-zhang77@gmail.com)
 
 
 
+我会吹点笛子，会画些画；最近在修改一篇论文。。。[art gallery](https://xiaoyu-zhang77.github.io/artgallery/).
+
+
+<!--
 # Publications
 
 ## 2025
@@ -65,3 +64,4 @@ I paint in my spare time. I have posted some of my paintings on my website's [ar
    Computer Graphics Forum, 2023.
 
    Jiachen Wang, Yihong Wu, Xiaolong Zhang, **Xiaoyu Zhang**, Zheng Zhou, Hui Zhang, Xiao Xie, and Yingcai Wu
+-->
