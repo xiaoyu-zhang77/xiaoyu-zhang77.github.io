@@ -2,7 +2,7 @@
 title: "Designing and Fabricating Color BRDFs with Differentiable Wave Optics"
 collection: publications
 permalink: /publication/wavegs
-excerpt: '**Yixin Zeng**, Kiseok Choi, Hadi Amata, Kaizhang Kang, Wolfgang Heidrich, Hongzhi Wu, Min H. Kim'
+excerpt: '**Xiaoyu Zhang**, Kiseok Choi, Hadi Amata, Kaizhang Kang, Wolfgang Heidrich, Hongzhi Wu, Min H. Kim'
 date: 2025-12-15
 venue: 'ACM Transactions on Graphics (TOG), presented at SIGGRAPH Asia 2025'
 paperurl: ''
@@ -11,7 +11,7 @@ supplementary_materials: ''
 project_page: ''
 year: '2025'
 first_author: 'yes'
-teaser: 'http://zyx45889.github.io/images/publications/wavegs.jpg'
+teaser: 'http://xiaoyu-zhang77.github.io/images/publications/wavegs.jpg'
 ---
 
 <b>Abstract:</b>
